@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"UMicrocontroller",1," Arduino Uno R3"
+"SERVO3 Elbow, SERVO1 Base, SERVO2 Shoulder",3," Micro Servo"
+"SERVO4 Wrist 1, SERVO5 Wrist 2, SERVO6 Hand",3,"Positional Micro Servo"
+"BAT5, BAT5 Volt Battery",2," 9V Battery"
+"U1 IR Sensor",1," IR sensor"
+"T1 Infrared Proximity Sensor",1," NPN Transistor (BJT)"
